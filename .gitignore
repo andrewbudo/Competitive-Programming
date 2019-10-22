@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# Budo
+*.user
+*.suo
+*.mod
+*.vs
+*.vsp
+*.press
+*.opendb
+*.db
+*.log
+*.lastbuildstate
+*.idb
+*.pdb
+*.tlog
